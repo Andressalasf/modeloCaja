@@ -13,19 +13,18 @@ header{
 
 section{
     background-color: green;
+    display: flex;
     overflow: hidden;
 }
 
 nav{
  width: 25%;
- float: left;
  background-color: red;
 }
 
 article{
     width: 75%;
     height: 250px;
-    float: left;
     background-color: bisque;
 }
 footer{
